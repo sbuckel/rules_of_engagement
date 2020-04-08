@@ -67,7 +67,7 @@ As part of their responsibilities defined in [WG Officers](), officers need to e
   * using Review and Approval, also called Decision Making process
 * Proposals SHALL be available for a given period.
 
-### U### Using voting to achieve agreementsing 
+### Using voting to achieve agreement 
 
 <table>
   <caption>Summary overview of Voting Procedures</caption>
