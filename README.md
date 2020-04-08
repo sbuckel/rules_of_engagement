@@ -8,7 +8,7 @@
 
 # The Way We Work
 ## Meetings
-* WGs are encourage to schedule regular conference calls.
+* WGs are encouraged to schedule regular conference calls.
 * The Meetings MUST be announced at least 7 days in advance.
 * All the Organization members are contractually bound to the IPR policy under terms of the Membership Application and these IPR Guidelines must be followed.
 * Meetings SHALL have an IPR call where a reminder of the IPR policy and the duties and obligations of members is provided.
