@@ -1,4 +1,10 @@
 # Rules of Engagement
+## Organization Structure
+
+<figure>
+	<img src="images/omp_governance.svg" alt="OMP Governance Structure">
+	<figcaption>OMP Governance Structure</figcaption>
+</figure>
 
 ## Technical Steering Committee
 
