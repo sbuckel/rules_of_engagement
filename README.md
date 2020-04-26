@@ -165,6 +165,35 @@ This section provides a summary of the voting procedures defined in section [Usi
 ## Working with other organizations
 
 ## Work Flow
+### GitHub Flow
+<table>
+  <caption>GitHub Work Flow</caption>
+  <thead>
+    <tr>
+	    <th>Branch</th>
+	    <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	    <td>"Rel vX.Y.Z"</td>
+      <td>Release-tag that contains the published specifications. </td>
+   </tr>
+    <tr>
+	    <td>"master"</td>
+      <td>Branch that contains the latest publicly approved specifications.</td>
+   </tr>
+   <tr>
+	    <td>"staging</td>
+	    <td>Branch that contains draft specifications that are stable and ready for final approval.</td>
+   </tr>
+   <tr>
+	    <td>"feature-branch-x</td>
+	    <td>Branch that contains draft features under construction.</td>
+   </tr>
+  </tbody>
+</table>
+
 <figure>
 	<img src="images/omp-git-flow.svg" alt="OMP GitHub Flow">
 	<figcaption>OMP GitHub Flow</figcaption>
