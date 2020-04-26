@@ -165,6 +165,10 @@ This section provides a summary of the voting procedures defined in section [Usi
 ## Working with other organizations
 
 ## Work Flow
+<figure>
+	<img src="images/omp-git-flow.svg" alt="OMP GitHub Flow">
+	<figcaption>OMP GitHub Flow</figcaption>
+</figure>
 
 ## Documentation
 * [Charter]()
